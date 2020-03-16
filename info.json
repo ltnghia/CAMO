@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "flare"
+  },
+  {
+    "id": 2,
+    "name": "analytics",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "cluster",
+    "parent": 2
+  },
+  
+]
